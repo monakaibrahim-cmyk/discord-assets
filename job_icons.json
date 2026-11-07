@@ -1,0 +1,254 @@
+{
+  "1": {
+    "name": "Warrior",
+    "tier": 0,
+    "base": "Warrior",
+    "icon": "1.png"
+  },
+  "2": {
+    "name": "Archer",
+    "tier": 0,
+    "base": "Archer",
+    "icon": "2.png"
+  },
+  "3": {
+    "name": "Sorceress",
+    "tier": 0,
+    "base": "Sorceress",
+    "icon": "3.png"
+  },
+  "4": {
+    "name": "Cleric",
+    "tier": 0,
+    "base": "Cleric",
+    "icon": "4.png"
+  },
+  "5": {
+    "name": "Academic",
+    "tier": 0,
+    "base": "Academic",
+    "icon": "5.png"
+  },
+  "6": {
+    "name": "Kali",
+    "tier": 0,
+    "base": "Kali",
+    "icon": "6.png"
+  },
+  "11": {
+    "name": "Swordmaster",
+    "tier": 1,
+    "base": "Warrior",
+    "icon": "11.png"
+  },
+  "12": {
+    "name": "Mercenary",
+    "tier": 1,
+    "base": "Warrior",
+    "icon": "12.png"
+  },
+  "14": {
+    "name": "Bowmaster",
+    "tier": 1,
+    "base": "Archer",
+    "icon": "14.png"
+  },
+  "15": {
+    "name": "Acrobat",
+    "tier": 1,
+    "base": "Archer",
+    "icon": "15.png"
+  },
+  "17": {
+    "name": "Elementallord",
+    "tier": 1,
+    "base": "Sorceress",
+    "icon": "17.png"
+  },
+  "18": {
+    "name": "Forceuser",
+    "tier": 1,
+    "base": "Sorceress",
+    "icon": "18.png"
+  },
+  "20": {
+    "name": "Paladin",
+    "tier": 1,
+    "base": "Cleric",
+    "icon": "20.png"
+  },
+  "22": {
+    "name": "Priest",
+    "tier": 1,
+    "base": "Cleric",
+    "icon": "22.png"
+  },
+  "23": {
+    "name": "Gladiator",
+    "tier": 2,
+    "base": "Warrior",
+    "icon": "23.png"
+  },
+  "24": {
+    "name": "Moonlord",
+    "tier": 2,
+    "base": "Warrior",
+    "icon": "24.png"
+  },
+  "25": {
+    "name": "Barbarian",
+    "tier": 2,
+    "base": "Warrior",
+    "icon": "25.png"
+  },
+  "26": {
+    "name": "Destroyer",
+    "tier": 2,
+    "base": "Warrior",
+    "icon": "26.png"
+  },
+  "29": {
+    "name": "Sniper",
+    "tier": 2,
+    "base": "Archer",
+    "icon": "29.png"
+  },
+  "30": {
+    "name": "Artillery",
+    "tier": 2,
+    "base": "Archer",
+    "icon": "30.png"
+  },
+  "31": {
+    "name": "Tempest",
+    "tier": 2,
+    "base": "Archer",
+    "icon": "31.png"
+  },
+  "32": {
+    "name": "Windwalker",
+    "tier": 2,
+    "base": "Archer",
+    "icon": "32.png"
+  },
+  "35": {
+    "name": "Saleana",
+    "tier": 2,
+    "base": "Sorceress",
+    "icon": "35.png"
+  },
+  "36": {
+    "name": "Elestra",
+    "tier": 2,
+    "base": "Sorceress",
+    "icon": "36.png"
+  },
+  "37": {
+    "name": "Smasher",
+    "tier": 2,
+    "base": "Sorceress",
+    "icon": "37.png"
+  },
+  "38": {
+    "name": "Majesty",
+    "tier": 2,
+    "base": "Sorceress",
+    "icon": "38.png"
+  },
+  "41": {
+    "name": "Guardian",
+    "tier": 2,
+    "base": "Cleric",
+    "icon": "41.png"
+  },
+  "42": {
+    "name": "Crusader",
+    "tier": 2,
+    "base": "Cleric",
+    "icon": "42.png"
+  },
+  "43": {
+    "name": "Saint",
+    "tier": 2,
+    "base": "Cleric",
+    "icon": "43.png"
+  },
+  "44": {
+    "name": "Inquisitor",
+    "tier": 2,
+    "base": "Cleric",
+    "icon": "44.png"
+  },
+  "46": {
+    "name": "Engineer",
+    "tier": 1,
+    "base": "Academic",
+    "icon": "46.png"
+  },
+  "47": {
+    "name": "Shootingstar",
+    "tier": 2,
+    "base": "Academic",
+    "icon": "47.png"
+  },
+  "48": {
+    "name": "Gearmaster",
+    "tier": 2,
+    "base": "Academic",
+    "icon": "48.png"
+  },
+  "49": {
+    "name": "Alchemist",
+    "tier": 1,
+    "base": "Academic",
+    "icon": "49.png"
+  },
+  "50": {
+    "name": "Adept",
+    "tier": 2,
+    "base": "Academic",
+    "icon": "50.png"
+  },
+  "51": {
+    "name": "Physician",
+    "tier": 2,
+    "base": "Academic",
+    "icon": "51.png"
+  },
+  "54": {
+    "name": "Screamer",
+    "tier": 1,
+    "base": "Kali",
+    "icon": "54.png"
+  },
+  "55": {
+    "name": "Darksummoner",
+    "tier": 2,
+    "base": "Kali",
+    "icon": "55.png"
+  },
+  "56": {
+    "name": "Souleater",
+    "tier": 2,
+    "base": "Kali",
+    "icon": "56.png"
+  },
+  "57": {
+    "name": "Dancer",
+    "tier": 1,
+    "base": "Kali",
+    "icon": "57.png"
+  },
+  "58": {
+    "name": "Bladedancer",
+    "tier": 2,
+    "base": "Kali",
+    "icon": "58.png"
+  },
+  "59": {
+    "name": "Spiritdancer",
+    "tier": 2,
+    "base": "Kali",
+    "icon": "59.png"
+  }
+}
